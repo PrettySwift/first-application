@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  A First Application
+//  Counter
 //
 //  Created by Ben Johnson on 11/7/15.
 //  Copyright © 2015 Pretty Swift. All rights reserved.
